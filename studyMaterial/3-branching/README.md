@@ -1,4 +1,4 @@
-3. Branching
+# 3. Branching
 
 ## Branches in a nutshell
 
