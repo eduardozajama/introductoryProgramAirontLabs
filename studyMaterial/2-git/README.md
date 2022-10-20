@@ -83,7 +83,7 @@ git push origin <master>
 ## Git Branch
 A branch is a version of the repository that diverges from the main working project. It is a feature available in most modern version control systems. A Git project can have more than one branch. These branches are a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug, you spawn a new branch to summarize your changes. So, it is complex to merge the unstable code with the main code base and also facilitates you to clean up your future history before merging with the main branch.
 
-![](/git/branch.png)
+![](/studyMaterial/2-git/branch.png)
 
 ## Operations on Branches
 We can perform various operations on Git branches. The git branch command allows you to create, list, rename and delete branches. Many operations on branches are applied by git checkout and git merge command. So, the git branch is tightly integrated with the git checkout and git merge commands.
@@ -92,7 +92,7 @@ We can perform various operations on Git branches. The git branch command allows
 Tags make a point as a specific point in Git history. Tags are used to mark a commit stage as relevant. We can tag a commit for future reference. Primarily, it is used to mark a project's initial point like v1.1.
 Tags are much like branches, and they do not change once initiated. We can have any number of tags on a branch or different branches. The below figure demonstrates the tags on various branches.
 
-![](/git/tags.png)
+![](/studyMaterial/2-git/tags.png)
 
 
 In the above image, there are many versions of a branch. All these versions are tags in the repository.
@@ -118,7 +118,7 @@ Commits are the snapshots of the project. Every commit is recorded in the master
 Sometimes you want to switch the branches, but you are working on an incomplete part of your current project. You don't want to make a commit of half-done work. Git stashing allows you to do so. The git stash command enables you to switch branches without committing the current branch.
 The below figure demonstrates the properties and role of stashing concerning repository and working directory.
 
-![](/git/stash.png)
+![](/studyMaterial/2-git/stash.png)
 
 Generally, the stash's meaning is "store something safely in a hidden place." The sense in Git is also the same for stash; Git temporarily saves your data safely without committing.
 Stashing takes the messy state of your working directory, and temporarily save it for further use.
@@ -135,7 +135,7 @@ Git hooks provide a way to fire off custom scripts that run automatically every 
 * Server-Side hooks
 
 
-![](/git/hooks.png)
+![](/studyMaterial/2-git/hooks.png)
 
 
 
