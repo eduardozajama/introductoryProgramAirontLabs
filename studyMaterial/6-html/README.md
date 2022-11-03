@@ -99,7 +99,7 @@ HTML5 added new types on ```<input>``` element. Following is the list of types o
 |search |Defines a single line text field for entering a search string.
 |tel |Defines an input field for entering the telephone number.
 
-## What is the Diffreence Between XHTML and HTML5?
+## What is the Difference Between XHTML and HTML5?
 XHTML is a combination of HTML and XML, while HTML5 is a version of HTML. XHTML has its own parsing requirements, while HTML does not have any specific requirements and uses its own. Know more about what is the difference between XHTML and HTML5 from the table below.
 
 |XHTML |HTML5
