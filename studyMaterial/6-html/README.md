@@ -113,6 +113,16 @@ XHTML is a combination of HTML and XML, while HTML5 is a version of HTML. XHTML 
 |Internet Explorer 8 Browser does not support this|Is compatible with all browsers
 |Better suited for desktop computers|More compatible with mobile devices — smartphones and tablets
 
+## Resources
+> [w3schools](https://www.w3schools.com/html/default.asp_)
+
+>[javatpoint](https://www.javatpoint.com/what-is-html)
+
+>[freecodecamp](https://www.freecodecamp.org/news/text-box-in-html-the-input-field-html-tag/)
+
+
+
+
 
 
 
