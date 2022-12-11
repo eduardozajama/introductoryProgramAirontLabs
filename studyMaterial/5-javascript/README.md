@@ -48,7 +48,7 @@ Here, the script codes are presented in the same HTML file of which it would be 
  
  
  
-####- EXTERNAL JAVASCRIPT
+#### - EXTERNAL JAVASCRIPT
 
 Here, the script codes are placed in another file and are simply referenced in the HTML file of which it is to be used.
 For our program above, we could simply have a different file for it;
@@ -67,7 +67,7 @@ In our index.html, we could simply replace the Javascript area with
  
 The src attribute means source which contains the location of the javascript file we are trying to reference.
  
-Advantages of External Javascript
+#### Advantages of External Javascript
 
 It separates your HTML elements and codes
 It makes your HTML files and javascript files easier to read.
